@@ -1,0 +1,4 @@
+github.com/dustin/go-humanize v1.0.0 h1:VSnTsYCnlFHaM2/igO1h6X3HA71jcobQuxemgkq4zYo=
+github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
+github.com/rawnly/collections-downloader v0.0.0-20200907132728-5fdb8c2a95b1 h1:bvrXR8SjH1RsqKHFvhn5gYNFjQiHbqEY6+WH9/0aPD0=
+github.com/rawnly/collections-downloader v0.0.0-20200907132728-5fdb8c2a95b1/go.mod h1:03S1Op+EiEocMJTtRam0/M2rQjC3JIJbg3K/PZJkibc=
